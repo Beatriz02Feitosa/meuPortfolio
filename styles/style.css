@@ -144,7 +144,7 @@ body{
 }
 @media (max-width: 481px){
     .cabecalho__menu__links{
-        font-size: 1.2rem;
+        font-size: 1.25rem;
     }
     .elementosDaPagina__conteudo__titulo{
         font-size: 2rem;
