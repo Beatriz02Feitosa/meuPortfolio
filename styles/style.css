@@ -141,3 +141,23 @@ body{
         width: 60%;
     }
 }
+@media (max-width: 481px){
+    .cabecalho__menu__links{
+        font-size: 1.125rem;
+    }
+    .elementosDaPagina__conteudo__titulo{
+        font-size: 2rem;
+    }
+    .elementosDaPagina__conteudo__subtitulo{
+        font-size: 1.5rem;
+    }
+    .elementosDaPagina__conteudo__paragrafo{
+        font-size: 1.2rem;
+    }
+    .elementosDaPagina__curriculo__curso{
+        font-size: 1.2rem;
+    }
+    .elementosDaPagina__links__subtitulo{
+        font-size: 1.2rem;
+    }
+}
